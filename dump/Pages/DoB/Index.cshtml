@@ -1,0 +1,29 @@
+﻿@page
+@model dump.Pages.DoB.IndexModel
+@{
+    ViewData["Title"] = "DoB Validation";
+}
+
+<div class="container text-center">
+    <div class="mb-3">  
+        <h3>Date Of Birth validation using datepicker jQuery</h3>
+        <hr />
+        @* string type *@
+        
+        <label asp-for="dates.DateOne"></label> 
+        <input asp-for="dates.DateOne" type="text" id="txtDate" readonly />
+        <span asp-validation-for="dates.DateOne" id="lblError" class="text-danger"></span> 
+    </div>
+    <div class="mb-3">
+       @*  DateTime type *@
+        <label asp-for="dates.DateThree"></label>
+        <input asp-for="dates.DateThree" type="text" id="txtDate3" readonly/>
+        <span asp-validation-for="dates.DateThree" id="lblError3" class="text-danger"></span>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        <partial name="_DoBScriptsPartial" />
+    }
+}

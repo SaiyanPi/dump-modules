@@ -1,0 +1,81 @@
+﻿@page
+@model dump.Pages.Table.IndexModel
+@{
+    ViewData["Title"] = "Table";
+}
+<div class = "container text-centre">
+    <h2>Manipulating Table Data using DataTables</h2>
+    <hr />
+    <table id="myTable" class="display table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th style="background-color:darkgrey">Column 1</th>
+                <th style="background-color:darkgrey">Column 2</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Row 1 Data 1</td>
+                <td>Row 1 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 2 Data 1</td>
+                <td>Row 2 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 3 Data 1</td>
+                <td>Row 3 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 4 Data 1</td>
+                <td>Row 4 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 5 Data 1</td>
+                <td>Row 5 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 6 Data 1</td>
+                <td>Row 6 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 7 Data 1</td>
+                <td>Row 7 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 8 Data 1</td>
+                <td>Row 8 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 9 Data 1</td>
+                <td>Row 9 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 10 Data 1</td>
+                <td>Row 10 Data 2</td>
+            </tr>
+              <tr>
+                <td>Row 11 Data 1</td>
+                <td>Row 11 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 12 Data 1</td>
+                <td>Row 12 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 13 Data 1</td>
+                <td>Row 13 Data 2</td>
+            </tr>
+            <tr>
+                <td>Row 14 Data 1</td>
+                <td>Row 14 Data 2</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    @{
+        <partial name="_DataTablesScriptsPartial" />
+    }
+}
