@@ -10,5 +10,14 @@ namespace dump.Data
 
         }
         public DbSet<ForDoB> DoB { get; set; }
+
+        public DbSet<ForFluent> Fluent { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<ForFluent>()
+                .Property(p => p.Discount)
+                .HasColumnType("decimal(18,2)");
+        }
     }
 }

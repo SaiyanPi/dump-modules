@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\zlams\\source\\DumpProject\\dump\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|c:\\users\\zlams\\source\\dumpproject\\dump\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|c:\\users\\zlams\\source\\dumpproject\\dump\\pages\\fluentvalidation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|solutionrelative:pages\\fluentvalidation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|c:\\users\\zlams\\source\\dumpproject\\dump\\pages\\shared\\_datatablesscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|solutionrelative:pages\\shared\\_datatablesscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|c:\\users\\zlams\\source\\dumpproject\\dump\\pages\\fluentvalidation\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|solutionrelative:pages\\fluentvalidation\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|c:\\users\\zlams\\source\\dumpproject\\dump\\pages\\table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|solutionrelative:pages\\table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|c:\\users\\zlams\\source\\dumpproject\\dump\\pages\\fluentvalidation\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|solutionrelative:pages\\fluentvalidation\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|c:\\users\\zlams\\source\\dumpproject\\dump\\pages\\shared\\_dobscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|solutionrelative:pages\\shared\\_dobscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|c:\\users\\zlams\\source\\dumpproject\\dump\\model\\forfluent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|solutionrelative:model\\forfluent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|c:\\users\\zlams\\source\\dumpproject\\dump\\wwwroot\\js\\datatable.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|solutionrelative:wwwroot\\js\\datatable.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|c:\\users\\zlams\\source\\dumpproject\\dump\\pages\\dob\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|solutionrelative:pages\\dob\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|c:\\users\\zlams\\source\\dumpproject\\dump\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027134A-F769-48D2-A7A8-71488C38BF5F}|dump.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "datatable.js",
-              "DocumentMoniker": "C:\\Users\\zlams\\source\\DumpProject\\dump\\wwwroot\\js\\datatable.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\datatable.js",
-              "ToolTip": "C:\\Users\\zlams\\source\\DumpProject\\dump\\wwwroot\\js\\datatable.js",
-              "RelativeToolTip": "wwwroot\\js\\datatable.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-09T13:21:25.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\DoB\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\DoB\\Index.cshtml",
-              "ToolTip": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\DoB\\Index.cshtml",
-              "RelativeToolTip": "Pages\\DoB\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T13:16:47.449Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_DoBScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Shared\\_DoBScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_DoBScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Shared\\_DoBScriptsPartial.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_DoBScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T13:15:47.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Table\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Table\\Index.cshtml",
-              "ToolTip": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Table\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Table\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T13:05:22.529Z",
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Fluentvalidation\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Fluentvalidation\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Fluentvalidation\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Fluentvalidation\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:17:08.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_DataTablesScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Shared\\_DataTablesScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_DataTablesScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Shared\\_DataTablesScriptsPartial.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_DataTablesScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T13:01:52.988Z",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Fluentvalidation\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Fluentvalidation\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Fluentvalidation\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Fluentvalidation\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:19:36.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAOAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Fluentvalidation\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Fluentvalidation\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Pages\\Fluentvalidation\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Fluentvalidation\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T12:27:29.903Z",
+              "WhenOpened": "2024-05-22T10:27:14.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForFluent.cs",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Model\\ForFluent.cs",
+              "RelativeDocumentMoniker": "Model\\ForFluent.cs",
+              "ToolTip": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Model\\ForFluent.cs",
+              "RelativeToolTip": "Model\\ForFluent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:31:00.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zlams\\source\\DumpProject\\dump\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:01:09.602Z",
               "EditorCaption": ""
             }
           ]

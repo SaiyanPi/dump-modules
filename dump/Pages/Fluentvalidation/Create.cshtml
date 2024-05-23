@@ -1,0 +1,80 @@
+﻿@page
+@model dump.Pages.Fluentvalidation.CreateModel
+@{
+    ViewData["Title"] = "Fluent Validation|Create Client";
+}
+
+
+<div class="container">
+    <div class="text-center">
+        <h3>Validation With Fluent </h3>
+        <hr />
+    </div>
+    <div class="mb-3">
+        <a asp-page="Index" class="btn btn-secondary">Back</a>
+    </div>
+    <div class="border p-4">
+        
+        
+
+        <form method="post">
+            <div class = "row">
+                <div class="col-md-6">
+                    <div class="pb-3">
+                        <b><label asp-for="Client.ClientForeName"></label></b>
+                        <input asp-for="Client.ClientForeName" class="form-control" placeholder="First Name" />
+                        <span asp-validation-for="Client.ClientForeName" class="text-danger"></span>
+                    </div>
+                    <div class="pb-3">
+                        <b><label asp-for="Client.ClientSurName"></label></b>
+                        <input asp-for="Client.ClientSurName" class="form-control" placeholder="Last Name" />
+                        <span asp-validation-for="Client.ClientSurName" class="text-danger"></span>
+                    </div>
+                    <div class="pb-3">
+                        <b><label asp-for="Client.BirthDate"></label></b>
+                        <input asp-for="Client.BirthDate" class="form-control" placeholder="Date of Birth" />
+                        <span asp-validation-for="Client.BirthDate" class="text-danger"></span>
+                    </div>
+                    <div class="pb-3">
+                        <b><label asp-for="Client.Age"></label></b>
+                        <input asp-for="Client.Age" class="form-control" placeholder="Age" />
+                        <span asp-validation-for="Client.Age" class="text-danger"></span>
+                    </div>
+                    <div class="pb-3">
+                        <b><label asp-for="Client.Email"></label></b>
+                        <input asp-for="Client.Email" class="form-control" placeholder="Email Id" />
+                        <span asp-validation-for="Client.Email" class="text-danger"></span>
+                    </div>
+                    <div class="pb-3">
+                        <b><label asp-for="Client.Address"></label></b>
+                        <input asp-for="Client.Address" class="form-control" placeholder="City, Street" />
+                        <span asp-validation-for="Client.Address" class="text-danger"></span>
+                    </div>
+                    <div class="pb-3">
+                        <b><label asp-for="Client.Phone"></label></b>
+                        <input asp-for="Client.Phone" class="form-control" placeholder="Phone Number" />
+                        <span asp-validation-for="Client.Phone" class="text-danger"></span>
+                    </div>
+                    <div class="pb-3">
+                        <b><label asp-for="Client.Discount"></label></b>
+                        <input asp-for="Client.Discount" class="form-control" placeholder="Discount Amount" />
+                        <span asp-validation-for="Client.Discount" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6 text-danger">
+                    <div asp-validation-summary="All"></div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Create</button>
+        </form>
+
+    </div>
+</div>
+
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+

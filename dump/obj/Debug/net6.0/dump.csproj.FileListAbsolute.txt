@@ -66,3 +66,8 @@ C:\Users\zlams\source\DumpProject\dump\bin\Debug\net6.0\runtimes\win\lib\netstan
 C:\Users\zlams\source\DumpProject\dump\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\zlams\source\DumpProject\dump\obj\Debug\net6.0\dump.csproj.AssemblyReference.cache
 C:\Users\zlams\source\DumpProject\dump\obj\Debug\net6.0\dump.csproj.Up2Date
+C:\Users\zlams\source\DumpProject\dump\obj\Debug\net6.0\dump.sourcelink.json
+C:\Users\zlams\source\DumpProject\dump\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\zlams\source\DumpProject\dump\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\zlams\source\DumpProject\dump\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\zlams\source\DumpProject\dump\obj\Debug\net6.0\dump.MvcApplicationPartsAssemblyInfo.cs

@@ -1,0 +1,46 @@
+﻿@page
+@model dump.Pages.Fluentvalidation.IndexModel
+@{
+    ViewData["Title"] = "Fluent Validation";
+} 
+<div class="text-center">
+    <h3>Validation With Fluent </h3>
+    <hr />
+</div>
+<div class="container">
+    <div class="text-center mb-3">
+        <a asp-page="Create" class="btn btn-success">Add New Client</a>
+    </div>
+    <div class="mb-2"> 
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Date of Birth</th>
+                    <th>Age</th>
+                    <th>Email</th>
+                    <th>Address</th>
+                    <th>Phone</th>
+                    <th>Discount</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var obj in Model.clients)
+                {
+                    <tr>
+                        <td>@obj.ClientForeName</td>
+                        <td>@obj.ClientSurName</td>
+                        <td>@obj.BirthDate</td>
+                        <td>@obj.Age</td>
+                        <td>@obj.Email</td>
+                        <td>@obj.Address</td>
+                        <td>@obj.Phone</td>
+                        <td>@obj.Discount</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
