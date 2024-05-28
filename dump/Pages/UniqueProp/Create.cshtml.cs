@@ -28,11 +28,9 @@ namespace dump.Pages.UniqueProp
                 await _db.Emp.AddAsync(Detail);
                 await _db.SaveChangesAsync();
                 return RedirectToPage("Index");
-
             }
-            else
-            
-                return Page();
+
+            return Page();
         }
     }
 }

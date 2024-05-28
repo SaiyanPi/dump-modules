@@ -10,8 +10,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 
+//Fluent
 builder.Services.AddScoped<IValidator<ForFluent>, ClientValidator>();
-//builder.Services.AddScoped<IValidator<ForUniqueProp>, PlanetConfiguration>();
 
 builder.Services.AddDbContext<DumpDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")
