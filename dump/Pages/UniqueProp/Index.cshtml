@@ -1,0 +1,52 @@
+﻿@page
+@model dump.Pages.UniqueProp.IndexModel
+@{
+    ViewData["Title"] = "Unique Property";
+}
+
+
+<div class="text-center">
+    <h3>Unique Property</h3>
+</div>
+<div>
+    <ol>
+        <i style="color:forestgreen">
+        <li>Making 'Card' property alternate key hence unique with Fluent API.</li>
+        <li>Validating 'Card' property with EF Core.</li>
+        <li>Validating nullable property 'Role' for uniqueness with EF Core.</li>
+        </i>
+    </ol>
+    <hr />
+</div>
+<div class="container">
+    <div class="text-center mb-3">
+        <a asp-page="Create" class="btn btn-success">Add New</a>
+    </div>
+    <div class="mb-2">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th style="background-color:darkgrey">Name</th>
+                    <th style="background-color:darkgrey">Role</th>
+                    <th style="background-color:darkgrey">Section</th>
+                    <th style="background-color:darkgrey">Card</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model.individuals)
+                {
+                    <tr>
+                        <td width="50%">@obj.Name</td>
+                        <td width="40%">@obj.Role</td>
+                        <td width="40%">@obj.Section</td>
+                        <td width="40%">@obj.Card</td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+

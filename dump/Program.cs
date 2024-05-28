@@ -11,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 
 builder.Services.AddScoped<IValidator<ForFluent>, ClientValidator>();
+//builder.Services.AddScoped<IValidator<ForUniqueProp>, PlanetConfiguration>();
 
 builder.Services.AddDbContext<DumpDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")
